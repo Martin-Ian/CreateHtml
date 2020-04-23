@@ -216,6 +216,7 @@ int main()
     toFile->push_back("<div class=\"item4\">");
     toFile->push_back("<!--Footer!-->");
     toFile->push_back("<h1><a href=\"https://github.com/Martin-Ian\" target=\"_blank\">My Github!</a></h1>");
+    toFile->push_back("<h4><a href=\"https://github.com/Martin-Ian/CreateHtml\" target=\"_blank\">Link to the html maker</a><h4>");
     toFile->push_back("</div>");
     toFile->push_back("</div>");
     toFile->push_back("</body>");
