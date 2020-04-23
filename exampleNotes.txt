@@ -1,0 +1,80 @@
+Example Lecture Title
+Example Class -- Professor Name -- 01/01/1970 -- Example Name
+
+>Notes start here.
+
+$Lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium vestibulum nisl ac feugiat. Quisque interdum 
+augue quis mollis mollis. Vivamus euismod nunc odio, sit amet molestie quam euismod ac. Interdum et malesuada fames ac ante 
+ipsum primis in faucibus. Cras iaculis lectus et lacus accumsan, vel vehicula ligula consectetur. Etiam ligula justo, pretium a 
+lacinia eget, tempus ac metus. Praesent leo quam, mollis at neque at, vehicula viverra arcu. Integer vitae ipsum lacinia, fringilla
+odio sed, posuere est. Suspendisse accumsan cursus nunc non euismod. Quisque a blandit elit. Integer et hendrerit ligula. Maecenas accumsan
+sagittis sem, eget vulputate est sollicitudin eget.
+
+#Definition
+Definition definition definition definition definition definition definition definition definition definition 
+definition definition definition definition definition definition definition
+
+*Example
+*Example
+**Further Example
+**Further Example
+*Example
+**Trailing Example
+
+#
+
+$Nulla Sapien
+Nulla sapien libero, molestie quis mi posuere, tristique tristique tortor. Nulla venenatis finibus risus, vitae vulputate massa efficitur
+in. Fusce et mi interdum, sagittis ligula at, sodales magna. Ut purus neque, accumsan id maximus in, volutpat iaculis tellus. Integer at sem 
+eget lacus convallis gravida vitae vitae dui. Sed ut nibh ac augue ullamcorper fringilla ut congue eros. Donec rhoncus sem nec sapien 
+vehicula, vehicula tincidunt eros bibendum. Etiam sagittis sapien eu arcu consectetur aliquam. Donec ullamcorper congue elit, condimentum 
+consequat nibh mollis in. Mauris nec sagittis dui. Cras ullamcorper aliquam elit, eu scelerisque arcu pulvinar id. In ultrices nibh et 
+sodales rutrum. Ut at ligula tempor, euismod lectus sed, tincidunt ipsum. Phasellus finibus ex a sem dapibus, ac imperdiet justo iaculis.
+
+<c>
+a_code(example)
+{
+    thisIsACode(example);
+    more.code.example(evenMore);
+    how(about)
+    {
+        even += more;
+        example();
+        <h1>Injection Test</h1>
+    }
+}
+</c>
+
+$Cras vitae
+Cras vitae justo id odio suscipit lobortis. Nullam malesuada, orci pharetra placerat semper, diam augue consequat mauris, nec ornare 
+turpis ante id leo. Aenean mi sem, pulvinar non cursus vitae, elementum blandit odio. Donec convallis, elit id maximus efficitur, ligula nisi 
+maximus risus, mattis consectetur libero est id mi. Nulla gravida velit mauris, id luctus justo dictum a. Maecenas id nunc magna. Cras sed est 
+gravida, sagittis dolor vel, blandit tellus. Quisque nec mattis velit. Nullam elementum lacinia orci non pharetra. Curabitur ut lobortis urna, 
+in scelerisque sem. Donec volutpat sit amet lacus sed vulputate. Curabitur sit amet fermentum massa. Nunc quis mi turpis. Sed in quam quis neque 
+tincidunt egestas id porttitor diam.
+
+$Aenean id
+Aenean id molestie eros. Duis non felis non justo tincidunt ornare ac tempus turpis. Aliquam sagittis tellus sed arcu auctor, eget tincidunt 
+elit feugiat. Etiam in enim feugiat, tempus massa non, sollicitudin urna. Phasellus sollicitudin augue quis nibh tincidunt ullamcorper vel vehicula 
+ligula. Donec blandit sodales quam eget elementum. Mauris sit amet malesuada arcu. Pellentesque sit amet gravida neque. Quisque faucibus 
+arcu eget velit dictum ornare. Integer dolor nisl, aliquet sit amet mauris sed, feugiat scelerisque velit. Morbi fringilla varius purus nec 
+posuere. Mauris lobortis tempus risus, non suscipit sapien posuere sit amet. Curabitur aliquam placerat congue. Vestibulum ac ipsum non libero 
+tristique volutpat. Praesent neque tellus, ornare eu sollicitudin vitae, faucibus at justo. Phasellus fermentum eros in erat porta elementum. 
+
+$Big idea
+>Big idea
+
+$Cras eu mauris
+Cras eu mauris vulputate velit consequat maximus quis eget tortor. Curabitur sed magna ac ante aliquam varius ac eget erat. Suspendisse 
+ornare nibh quam, vel porta urna interdum non. Nulla consequat neque feugiat libero auctor sollicitudin. Donec lacinia vehicula libero sit 
+amet rutrum. Suspendisse potenti. Morbi ultricies eleifend arcu, sed tempor ante pharetra sit amet. Quisque augue mi, egestas sed fringilla 
+ac, efficitur sed magna. Phasellus et tristique eros, ut ornare lectus.
+
+$In interdum
+In interdum ipsum eu sem efficitur vulputate. Donec a augue molestie, lobortis ex sit amet, condimentum mi. Donec libero mi, pellentesque id 
+consequat vel, condimentum vitae lectus. Ut fringilla sem ut magna tristique ullamcorper. Curabitur tempus ligula vitae cursus pulvinar. 
+Aenean blandit quam sit amet arcu consequat, sit amet condimentum nulla cursus. Curabitur elementum eu urna aliquam consectetur. Donec viverra 
+interdum lorem vitae pretium. Vestibulum finibus, augue eget laoreet finibus, quam ante elementum ex, quis vestibulum turpis tortor vitae 
+elit. Aliquam laoreet, nisi non laoreet fringilla, ante sem placerat sapien, a semper quam urna ut neque. Nulla et varius risus. Sed vitae 
+pellentesque lacus. Ut tempus orci aliquet consectetur tempor.

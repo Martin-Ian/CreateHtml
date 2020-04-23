@@ -1,0 +1,126 @@
+html{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, blue, gray, purple);
+}
+
+.item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+.item4 { grid-area: footer; }
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      'menu header header header header header'
+      'menu main main main main main'
+      'footer footer footer footer footer footer';
+    grid-gap: 0px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.defn {
+    border-color: red;
+    border-style: solid;
+}
+
+.navBar {
+    position: sticky; 
+    top: 0; 
+    overflow: auto; 
+    max-height: 650px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+    border: hidden;
+}
+
+.codes {
+    background-color: rgb(20, 20, 20);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-left-color: darkgreen;
+    border-top: hidden;
+    border-right: hidden;
+    border-bottom: hidden;
+    border-radius: 10px;
+    border-width: 10px;
+    text-align: left;
+    width: max-content;
+}
+
+pre {
+    counter-reset: listing;
+}
+
+code {
+    counter-increment: listing;
+    white-space: pre;
+    color: white;
+}
+
+pre.code {
+    white-space: pre-wrap;
+}
+
+pre.code:before {
+    counter-reset: listing;
+}
+
+pre.code code::before {
+    content: counter(listing) "| ";
+    display: inline-block;
+    color: gray;
+    width: 35px;         /* doesn't work */
+    padding-left: auto; /* doesn't work */
+    margin-left: auto;  /* doesn't work */
+    text-align: right;  /* doesn't work */
+}
+  
+code:before{
+    -webkit-user-select: none;
+}
+
+h1, h2{
+    text-align: center;
+    color: black;
+}
+
+p{
+    text-align: left;
+    color: black;
+}
+
+ul, ol{
+    text-align: left;
+}
+
+div{
+    display: block;
+    border: black;
+    width: auto;
+    height: fit-content;
+    border-style: double;
+    border-radius: 10px;
+    border-width: 3px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
